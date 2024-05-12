@@ -1,0 +1,5 @@
+com\example\pruebanubedos\Controlador\MenuPrincipales.class
+com\example\pruebanubedos\Entidad\EntidadesTabla.class
+com\example\pruebanubedos\Repositorio\RepositorioTabla.class
+com\example\pruebanubedos\Servicios\ServicioTabla.class
+com\example\pruebanubedos\PruebanubedosApplication.class
